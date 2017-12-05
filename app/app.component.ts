@@ -12,7 +12,7 @@ import { Component } from '@angular/core';
           <ul>
             <li class="ingredients">Ingredients: {{currentRecipe.ingredients}}</li>
             <ul>
-              <li>instructions: {{currentRecipe.instructions}}</li>
+              <li class="instructions">instructions: {{currentRecipe.instructions}}</li>
             </ul>
           </ul>
       </ul>
